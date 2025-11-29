@@ -56,7 +56,7 @@ Ficou interessado em fazer parte da Comunidade Metrópole Digital? Siga os passo
 
 ### Passo 1: Manifeste seu Interesse
 - Solicite permissão para entrar na organização, pelo próprio GitHub
-- Entre em alguma issue de discussão para conversar e encontrar amigos e projetos em aberto
+- Entre em disscussão ou issue para conversar e encontrar amigos e projetos em aberto ou precisando de ajuda
 
 ### Passo 2: Conheça a Comunidade
 - Familiarize-se com nossas regras e projetos em andamento
@@ -87,8 +87,8 @@ Na Comunidade Metrópole Digital, trabalhamos com diversas áreas, incluindo:
 
 Tem dúvidas ou sugestões? Entre em contato conosco:
 
-- **GitHub**: [comunidade-imd](https://github.com/comunidade-imd/.github/issues)
-- Participe das discussões nos tickets de repositórios da organização
+- **GitHub**: [comunidade-imd](https://github.com/orgs/comunidade-imd/discussions)
+- Participe das discussões pela nossa comunidade!
 
 ---
 
